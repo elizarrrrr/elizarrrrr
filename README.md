@@ -14,9 +14,9 @@ With a Bachelor's degree in Computer Science from a Swiss university and experie
 
 <table>
   <tr>
-    <td width="33%"><img src="./assets/working.svg" alt="Photo placeholder: Elizar working" width="100%" /></td>
-    <td width="33%"><img src="./assets/travelling.svg" alt="Photo placeholder: Elizar travelling" width="100%" /></td>
-    <td width="33%"><img src="./assets/photography.svg" alt="Photo placeholder: Elizar practising photography" width="100%" /></td>
+    <td width="33%"><img src="./assets/working.jpg" alt="Elizar working with a city view at night" width="100%" /></td>
+    <td width="33%"><img src="./assets/travelling.jpg" alt="Elizar resting in a tree while travelling" width="100%" /></td>
+    <td width="33%"><img src="./assets/photography.jpg" alt="A mountain and safari vehicle photographed by Elizar" width="100%" /></td>
   </tr>
   <tr>
     <td align="center"><strong>Building</strong><br />From idea to production</td>
@@ -27,7 +27,7 @@ With a Bachelor's degree in Computer Science from a Swiss university and experie
 
 ## Selected work
 
-### [Purchase Request Automation](https://github.com/elizarpongracz/blp-poc-elizar)
+### [Purchase Request Automation](https://github.com/elizarrrrr/blp-poc-elizar)
 
 An AI-first proof of concept that turns unstructured purchase requests into a controlled, auditable enterprise workflow. It combines intelligent data extraction, master-data enrichment, BPMN-based routing, approvals, task queues, and a live process view.
 
