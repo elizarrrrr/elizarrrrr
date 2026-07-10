@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Elizar Pongracz</title>
+  <desc id="desc">Software engineer, technology consultant, and entrepreneur</desc>
+  <rect width="1280" height="360" fill="#111318"/>
+  <path d="M0 72H1280M0 144H1280M0 216H1280M0 288H1280M160 0V360M320 0V360M480 0V360M640 0V360M800 0V360M960 0V360M1120 0V360" stroke="#242832" stroke-width="1"/>
+  <rect x="72" y="62" width="42" height="42" rx="3" fill="#e44545"/>
+  <path d="M93 71V95M81 83H105" stroke="#ffffff" stroke-width="6"/>
+  <rect x="72" y="129" width="8" height="142" fill="#f0c94e"/>
+  <text x="108" y="188" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="66" font-weight="700">Elizar Pongracz</text>
+  <text x="111" y="235" fill="#aeb7c8" font-family="Inter, Arial, sans-serif" font-size="23">ENGINEER  /  CONSULTANT  /  ENTREPRENEUR</text>
+  <circle cx="1135" cy="180" r="83" fill="none" stroke="#65c7c2" stroke-width="3"/>
+  <circle cx="1135" cy="180" r="53" fill="none" stroke="#65c7c2" stroke-width="3"/>
+  <circle cx="1135" cy="180" r="19" fill="#65c7c2"/>
+  <path d="M1135 97L1161 137L1205 127L1180 168L1216 196L1169 199L1162 245L1135 207L1096 233L1108 188L1065 172L1110 158L1096 114L1135 139Z" fill="none" stroke="#65c7c2" stroke-width="2"/>
+  <text x="111" y="301" fill="#6f7b90" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">SWITZERLAND  //  AI  //  ENTERPRISE SYSTEMS  //  PRODUCT</text>
+</svg>
