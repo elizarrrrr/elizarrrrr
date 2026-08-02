@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Elizar Pongracz - Software engineer, technology consultant, and entrepreneur" width="100%" />
-</p>
 
 ## Hello, I'm Elizar.
 
@@ -25,21 +22,6 @@ With a Bachelor's degree in Computer Science from a Swiss university and experie
   </tr>
 </table>
 
-## Selected work
-
-### [Purchase Request Automation](https://github.com/elizarrrrr/blp-poc-elizar)
-
-An AI-first proof of concept that turns unstructured purchase requests into a controlled, auditable enterprise workflow. It combines intelligent data extraction, master-data enrichment, BPMN-based routing, approvals, task queues, and a live process view.
-
-`Next.js` `TypeScript` `PostgreSQL` `BPMN` `Gemini` `Railway`
-
-## What I work with
-
-| Product engineering | Cloud and delivery | Enterprise workflows | AI development |
-| --- | --- | --- | --- |
-| TypeScript, Next.js, React | GCP, Azure, Railway | Flowable, Camunda | Codex, Claude Code |
-| Java, Spring Boot, SQL | Git, CI/CD | BPMN, process automation | OpenCode, AI APIs |
-| Angular, PostgreSQL | Production deployment | Systems integration | Zed, IntelliJ IDEA |
 
 ## Beyond software
 
