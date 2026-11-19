@@ -1,13 +1,8 @@
+## Hi, I'm Elizar
 
-## Hello, I'm Elizar.
+I live in Zurich and write software for a living. Most of it is AI-assisted applications and automation for enterprise processes.
 
-I am a software engineer, technology consultant, and entrepreneur based in Switzerland. I build useful digital products where **AI, enterprise processes, and thoughtful user experience** meet.
-
-With a Bachelor's degree in Computer Science from a Swiss university and experience at a Swiss enterprise consultancy, I turn ambiguous business problems into systems people can actually use.
-
-- Building AI-assisted applications and enterprise workflow automation
-- Working across product thinking, architecture, implementation, and deployment
-- Exploring how AI changes the way software is designed and delivered
+I studied computer science at a Swiss university and then worked at a Swiss enterprise consultancy. Now I work as a technology consultant and run my own projects.
 
 <table>
   <tr>
@@ -16,19 +11,12 @@ With a Bachelor's degree in Computer Science from a Swiss university and experie
     <td width="33%"><img src="./assets/photography.jpg" alt="A mountain and safari vehicle photographed by Elizar" width="100%" /></td>
   </tr>
   <tr>
-    <td align="center"><strong>Building</strong><br />From idea to production</td>
-    <td align="center"><strong>Travelling</strong><br />Finding new perspectives</td>
-    <td align="center"><strong>Photography</strong><br />Training the eye</td>
+    <td align="center"><strong>Building</strong><br />Working late, city view</td>
+    <td align="center"><strong>Travelling</strong><br />Resting in a tree</td>
+    <td align="center"><strong>Photography</strong><br />A mountain and a safari truck</td>
   </tr>
 </table>
 
+When I'm not working, I travel and take photos. I also try out new AI tools to see what they can build.
 
-## Beyond software
-
-I enjoy travelling, photography, and pushing the boundaries of what AI can make possible. Each rewards the same habit: look closely, question the default, and find a better frame.
-
-## Let's talk
-
-I am open to conversations about consulting, product collaboration, enterprise automation, and practical AI.
-
-**[elizarpongracz@gmail.com](mailto:elizarpongracz@gmail.com)**
+If you want to talk about a project, email [elizarpongracz@gmail.com](mailto:elizarpongracz@gmail.com).
